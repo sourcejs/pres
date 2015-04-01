@@ -8,7 +8,7 @@ Feel free to use any of provided images and videos in your articles, videos and 
 
 * [Living Style Guide Tools In-depth Overview](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)
 * [SourceJS - Living Style Guide Engine Overview](https://www.youtube.com/watch?v=y4KHmX8vCc0)
-* []Design-lego - Prototyping Tools Based on SourceJS](https://www.youtube.com/watch?v=cefy_U5NU4o)
+* [Design-lego - Prototyping Tools Based on SourceJS](https://www.youtube.com/watch?v=cefy_U5NU4o)
 
 ## Talks about SourceJS
 
