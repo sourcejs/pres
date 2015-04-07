@@ -1,5 +1,7 @@
 # Materials for presentations
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/sourcejs/Source)
+
 Feel free to use any of provided images and videos in your articles, videos and talks.
 
 **Project website - [SourceJS.com](http://sourcejs.com)**
