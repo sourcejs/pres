@@ -6,7 +6,7 @@ Feel free to use any of provided images and videos in your articles, videos and 
 
 **Project website - [SourceJS.com](http://sourcejs.com)**
 
-## Other usefull links
+## Other useful links
 
 * [Living Style Guide Tools In-depth Overview](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)
 * [SourceJS - Living Style Guide Engine Overview](https://www.youtube.com/watch?v=y4KHmX8vCc0)
